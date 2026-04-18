@@ -16,7 +16,7 @@ class harrypotter_but_cats:#idk why ts ass name
         else:
             print(self.name, "is a bad guy")
 
-catone = harrypotter_but_cats("harry potter", "british shorthair(whatever tf ts is", 2, True, True)#name is albus to tuff so hes got to be tuff
+catone = harrypotter_but_cats("harry potter", "british shorthair(whatever tf ts is)", 2, True, True)#name is albus to tuff so hes got to be tuff
 cattwo = harrypotter_but_cats("albus dumbledore", "ragdoll", 5, False, True)#cause ts cat is unc
 catthree = harrypotter_but_cats("lord voldemort", "black cat", 4, False, False)#subjective tuffness
 
