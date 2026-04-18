@@ -24,6 +24,7 @@ catone.cat_aura_celebration()
 cattwo.cat_aura_celebration()
 catthree.cat_aura_celebration()
 
+
 catone.goodguyorbadguy()
 cattwo.goodguyorbadguy()
 catthree.goodguyorbadguy()
